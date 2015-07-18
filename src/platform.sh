@@ -189,8 +189,8 @@ bashmenot_internal_detect_linux_version () {
 
 
 detect_platform () {
-	echo "linux-debian-8-x86_64"
-	return
+	# echo "linux-debian-8-x86_64"
+	# return
 	local os arch
 	os=$( detect_os )
 	arch=$( detect_arch )
