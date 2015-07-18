@@ -3,6 +3,7 @@ format_platform_description () {
 	'freebsd-10.0-x86_64')		echo 'FreeBSD 10.0 (x86_64)';;
 	'freebsd-10.1-x86_64')		echo 'FreeBSD 10.1 (x86_64)';;
 	'linux-amzn-2014.09-x86_64')	echo 'Amazon Linux 2014.09 (x86_64)';;
+	'linux-amzn-2015.03-x86_64')	echo 'Amazon Linux 2015.03 (x86_64)';;
 	'linux-arch-x86_64')		echo 'Arch Linux (x86_64)';;
 	'linux-centos-6-i386')		echo 'CentOS 6 (i386)';;
 	'linux-centos-6-x86_64')	echo 'CentOS 6 (x86_64)';;
